@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1077409059300-8bg63pv5hif1norbe5usc174upe48644.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://gosolvo-24693.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1077409059300</string>
+    <string name="google_api_key" translatable="false">AIzaSyAgMDwowozF9QkDESwVDnqAAyMqaC8S_3k</string>
+    <string name="google_app_id" translatable="false">1:1077409059300:android:9ed1db17cddf7cba0577f1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAgMDwowozF9QkDESwVDnqAAyMqaC8S_3k</string>
+    <string name="google_storage_bucket" translatable="false">gosolvo-24693.appspot.com</string>
+    <string name="project_id" translatable="false">gosolvo-24693</string>
+</resources>

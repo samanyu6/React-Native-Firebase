@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1077409059300",
+    "firebase_url": "https://gosolvo-24693.firebaseio.com",
+    "project_id": "gosolvo-24693",
+    "storage_bucket": "gosolvo-24693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077409059300:android:9ed1db17cddf7cba0577f1",
+        "android_client_info": {
+          "package_name": "com.gosolvo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077409059300-8gajnvpddtd42nvccnu12is6j0pmlnh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gosolvo",
+            "certificate_hash": "7d88984c00ddf8ad4f9d06752ec46c8cf893ce11"
+          }
+        },
+        {
+          "client_id": "1077409059300-8bg63pv5hif1norbe5usc174upe48644.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgMDwowozF9QkDESwVDnqAAyMqaC8S_3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077409059300-8bg63pv5hif1norbe5usc174upe48644.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
