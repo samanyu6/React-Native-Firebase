@@ -1,12 +1,12 @@
-# Gosolvo
-Firebase functions with react native
+# React Native Firebase
+Firebase functions with react native, used certain examples to show how it's done. Mostly boilerplate stuff for anyone who wants firebase integrations with react-native.
 
 # How to Run
 - Clone the repo and go to the project directory
 - Open terminal in the same directory
 
 ## For iOS
- ```javascript
+ ```shell
   cd ios
   pod install
   cd ../
@@ -14,6 +14,6 @@ Firebase functions with react native
   ```
  
 ## For Android
-  ```javascript
+  ```shell
   react-native run-android
   ```
